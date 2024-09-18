@@ -15,8 +15,4 @@ function insertionSort(array) {
     }
     
     return result;
-  }
-  
-  
-  
-  console.log(insertionSort([5, 4, 33, 2, 8]))
+}
